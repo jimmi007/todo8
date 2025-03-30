@@ -1,0 +1,21 @@
+{
+  "appTitle": "Localization Example",
+  "hello": "Hello",
+  "languageSwitch": "Switch Language1",
+  "ondated": "ondate duties",
+  "outofdate":"Finished duties",
+  "obligations":"obligations",
+  "deadline":"deadline", 
+  "categorise":"Select a category",
+  "thismonth":"this month",
+  "hobbies":"hobbies",
+  "travels":"travels",
+  "various":"various",
+  "noteedited" :"note edited",
+  "outdate":"Finished",
+  "thisdate" : "this date",
+  "later": "Later",
+  "todos" : "Todos",
+  "notes" : "Notes"
+}
+

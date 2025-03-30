@@ -1,0 +1,67 @@
+name: todo
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+  flutter_localized_locales: 2.0.5
+ 
+  cupertino_icons: ^1.0.8
+  lottie: ^3.1.2
+  uuid: ^4.5.1
+  provider: ^6.1.2
+  fluttertoast: ^8.2.8
+  page_transition: ^2.0.7
+  flutter_iconly: ^1.0.2
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.5.1
+  flutter_local_notifications: ^17.2.1
+  timezone: ^0.9.4
+  device_info_plus: ^11.3.0
+  android_intent_plus: ^5.3.0
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.4.4
+  flutter_launcher_icons: "^0.14.1"
+  build_runner: any
+  intl_utils: ^2.8.10
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/bookmark.png"
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/bookmark.png
+  branding: assets/images/bookmark.png
+  color_dark: "#121212"
+  image_dark: assets/images/bookmark.png
+  branding_dark: assets/images/logo.png  
+
+flutter_lints: ^4.0.0
+
+flutter:
+  generate : true
+  uses-material-design: true
+  
+ 
+
+  assets:
+    - assets/images/jok.png
+    - assets/images/loka.jpg
+    - assets/images/bookmark.png
+    - assets/images/logo.png

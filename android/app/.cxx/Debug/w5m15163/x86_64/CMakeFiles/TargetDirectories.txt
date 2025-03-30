@@ -1,0 +1,2 @@
+C:/Udemy/todo/android/app/.cxx/Debug/w5m15163/x86_64/CMakeFiles/edit_cache.dir
+C:/Udemy/todo/android/app/.cxx/Debug/w5m15163/x86_64/CMakeFiles/rebuild_cache.dir
